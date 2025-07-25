@@ -27,5 +27,13 @@
     - Extracted all the text with good accuracy with Mistral AI; but bengali numbers were mis interpreted as Hindi number
     - Overall, the extracted text is good enough for the task and extraction was fast
 
-## Step-4: Load the extracted text into the RAG pipeline
+## Step-4: Tried multi-Query translation using RecursiveTextSplitter
+
+    > Verdict:
+
+    - Able to answer one question:
+         "কাকে অনুপমের ভাগ্য দেবতা বলে উল্লেখ করা হয়েছে?"
+         => 'মামা'
+
+    - Failed to get answers mostly
     

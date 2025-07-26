@@ -6,3 +6,4 @@ mistralai
 unstructured
 unstructured[md]
 langchain-chroma
+langchain-experimental

@@ -36,4 +36,16 @@
          => 'মামা'
 
     - Failed to get answers mostly
+
+## Step-5: Implemented RAPTOR Indexing
+
+    > Verdict:
+    
+    - Much slower and complex
+    - Same result as before (Not efficient)
+    - Able to answer one question:
+         "কাকে অনুপমের ভাগ্য দেবতা বলে উল্লেখ করা হয়েছে?"
+         => 'মামা'
+
+    - Failed to get answers mostly
     

@@ -1,9 +1,27 @@
+python-dotenv
+
+# Core libraries
 langchain
 langchain-community
 langchain-google-genai
-python-dotenv
-mistralai
+langchain-core
+google-generativeai
+
+
+# Vector database
+langchain-chroma
+
+# Web API
+fastapi==0.111.0
+uvicorn==0.30.1
+
+# PDF/Text handling (if needed in preprocessing)
+mistralai # For OCR
 unstructured
 unstructured[md]
-langchain-chroma
-langchain-experimental
+markdown
+
+# Utils
+tqdm==4.66.4
+numpy==1.26.4
+
